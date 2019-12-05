@@ -29,6 +29,6 @@
     background-color: #e1e1e1
   }
 
-.infoCardImage{
+.infoCardCallActionContainer :global(.vtex-image){
     display: inherit;
 }
