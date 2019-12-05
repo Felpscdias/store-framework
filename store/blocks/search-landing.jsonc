@@ -1,0 +1,27 @@
+
+{
+    "store.custom#landing": {
+        "blocks": [
+          "image",
+          "search-result-layout.customQuery"
+        ]
+      },
+
+    "image":{
+        "props":{
+            "src": "https://s2.glbimg.com/zFyoKMF0BhIjgH7gT24eqII9-Hw=/0x0:1040x780/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/J/v/etmM3PT2ywS5BD21Tlgw/whatsapp-image-2019-12-05-at-12.05.17-pm.jpeg",
+            "width": "100%"
+        }
+    },
+
+    "search-result-layout.customQuery":{
+        "props":{
+            "orderByField": "OrderByReleaseDateDESC",
+            "hideUnavailableItems": true,
+            "maxItemsPerPage": 8,
+            "queryField": "Blue Top Retro Camera",
+            "mapField": "ft"
+        }
+    }
+
+}
